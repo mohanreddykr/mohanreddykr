@@ -1,9 +1,5 @@
 package hello;
 
-demo
-
-kjhgf
-
 public class Greeter {
   public string sayhello() {
     return "hello world!";
